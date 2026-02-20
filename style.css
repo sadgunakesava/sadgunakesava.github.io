@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background: #fdfdfd;
+    color: #222;
+    line-height: 1.8;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background: #111;
+    color: white;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+    background: #eee;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #111;
+    font-weight: bold;
+}
+
+section {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #111;
+    color: white;
+}
